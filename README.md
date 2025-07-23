@@ -1,1 +1,2 @@
-https://www.acmicpc.net/user/vxnquish
+- https://www.acmicpc.net/user/vxnquish
+- https://solved.ac/profile/vxnquish
