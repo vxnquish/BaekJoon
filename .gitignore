@@ -1,2 +1,3 @@
 # ignore all Java compiled classes
 *.class
+.DS_Store
