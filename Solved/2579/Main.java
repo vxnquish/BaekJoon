@@ -7,7 +7,7 @@ public class Main
         Scanner sc = new Scanner(System.in);
         
         int n = sc.nextInt(); // number of stairs
-        int[] cost = new int[n + 1];
+        int[] cost = new int[n + 1]; // cost of stairs
 
         for(int i = 1; i <= n; i++)
         {
