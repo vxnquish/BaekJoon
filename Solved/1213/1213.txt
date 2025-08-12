@@ -1,0 +1,6 @@
+https://www.acmicpc.net/problem/1213
+
+AABB -> ABBA
+AAABB -> ABABA
+ABACABA -> AABCBAA
+ABCD -> I'm Sorry Hansoo
