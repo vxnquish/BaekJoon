@@ -30,7 +30,7 @@ public class Main
                 boolean a = inside(x1, y1, cx, cy, r);
                 boolean b = inside(x2, y2, cx, cy, r);
 
-                if(a ^ b) count ++;
+                if(a ^ b) count++;
             }
 
             System.out.println(count);
