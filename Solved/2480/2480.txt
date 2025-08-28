@@ -1,0 +1,7 @@
+https://www.acmicpc.net/problem/2480
+
+3 3 6 -> 1300
+
+2 2 2 -> 12000
+
+6 2 5 -> 600
